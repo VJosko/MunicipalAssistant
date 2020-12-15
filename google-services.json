@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83963034793",
+    "firebase_url": "https://municipal-assistant-ab95a.firebaseio.com",
+    "project_id": "municipal-assistant-ab95a",
+    "storage_bucket": "municipal-assistant-ab95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83963034793:android:e24f1090244dd6f249fdb8",
+        "android_client_info": {
+          "package_name": "com.example.municipalassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83963034793-2pb3njjpaac08g49jek4ao7eq28upcm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.municipalassistant",
+            "certificate_hash": "e15179e88a11dd96186fa4312ba9ae2fc763b63b"
+          }
+        },
+        {
+          "client_id": "83963034793-hgqfj9mobs1e4ao6872vp0i7i5golncn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYrAxQW_wG6RsCrHOBKkf5U_b6mZ9Gqnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83963034793-hgqfj9mobs1e4ao6872vp0i7i5golncn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

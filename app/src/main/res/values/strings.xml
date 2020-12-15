@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Municipal assistant</string>
+    <string name="title_activity_prikaz">PrikazActivity</string>
+    <string name="korisnicko_ime">Korisničko ime</string>
+
+    <string-array name="prikaz_array">
+        <item>sve</item>
+        <item>otvorene</item>
+        <item>riješene</item>
+        <item>odbačene</item>
+    </string-array>
+</resources>
